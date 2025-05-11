@@ -33,9 +33,7 @@ const Landing: React.FC = () => {
             Get Started
           </Button>
           
-          <p className="mt-4 text-sm text-gray-500">
-            Already have an account? <a href="/login" className="font-medium text-primary-600 hover:text-primary-500">Log in</a>
-          </p>
+         
         </div>
       </main>
       
